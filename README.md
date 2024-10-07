@@ -1,6 +1,2 @@
-👋 Hi, I’m @umairriaz392! ✨ I thrive on those breakthrough moments when data uncovers untold stories about the world and its people.
-📫 My passions include data analysis, Programming, books reading📚.
-⚡ I'm honing my skills in key data tools: Excel, Power BI, Tableau, SQL, 🐍 Python, and Google Sheets.
-💼 Excited to collaborate on data-driven projects and explore new career opportunities.
-💼 Connect with me on LinkedIn:  https://www.linkedin.com/in/muhammadumairriaz/
+Hello, I'm @umairriaz392! I am driven by those pivotal moments when data reveals compelling narratives about the world and its inhabitants. My interests encompass data analysis, programming, and immersing myself in the world of books. I am actively refining my expertise in essential data tools, including Excel, Power BI, Tableau, SQL, Python, and Google Sheets. I am enthusiastic about collaborating on data-driven initiatives and embarking on new professional paths. You can find me on LinkedIn: https://www.linkedin.com/in/muhammadumairriaz/. 
 🌍 He/Him.
